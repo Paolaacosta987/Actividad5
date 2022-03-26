@@ -1,0 +1,74 @@
+.barra{
+    background: rgb(176, 234, 241) !important;
+}
+
+.letra{
+    color: black !important;
+    font-family: cursive !important;
+    font-size: 21px !important;
+}
+
+.bloquetitulo1{
+    background: rgb(176, 234, 241) !important;
+    text-align: center !important;
+    font-size: 25px !important;
+    padding-top: 30px !important; 
+    font-family: cursive !important;
+}
+
+.parrafo1{
+    background: rgb(176, 234, 241) !important;
+    text-align: left !important;
+    font-size: 20px !important;
+    padding-top: 30px !important;
+    padding-block: 30px !important;
+    font-family: cursive !important;
+}
+
+.video2{
+    background: rgb(176, 234, 241) !important;
+    text-align: center !important; 
+    padding-top: 70px !important;
+}
+
+.bloquetitulo2{
+    width: 100%;
+    display: inline-block;
+    font-size: 22px;
+    margin: 0;
+    padding-top: 50px;
+    color: white;
+    font-family: cursive;
+    text-align: center;
+    background-color: black;
+    background-attachment: fixed;
+}
+
+.parrafotitulo3{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    padding-block: 45px;
+}
+
+.iconosredes{
+    text-align: center;
+    background-color: black;
+}
+
+.ajusteicono{
+    margin: 50px 35px;
+    display: inline-flex; 
+}
+
+.textofooter{
+    font-family: cursive;
+    text-align: center;
+    color: black;
+    font-size: 15px;
+    background-color: rgb(176, 234, 241) !important;
+    height: 80px;
+    padding-top: 15px;
+    padding-block: 15px;
+}
